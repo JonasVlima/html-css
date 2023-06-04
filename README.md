@@ -5,6 +5,6 @@
 
  Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d010/android"> Site Android</a>
 
- Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d012/">Cordedl Moderno</a>
+ Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d012/">Cordel Moderno</a>
 
 
