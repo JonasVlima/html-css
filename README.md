@@ -3,6 +3,8 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
- Veja o <a href="https://jonasvlima.github.io/html-css/desafios/d010/android"> Desafio 10</a>
+ Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d010/android"> Site Android</a>
+
+ Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d012/">Cordedl Moderno</a>
 
 
