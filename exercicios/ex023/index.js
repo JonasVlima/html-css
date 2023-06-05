@@ -1,1 +1,0 @@
-const primeiroNumero = 5
