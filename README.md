@@ -4,18 +4,19 @@
 
 
 <h2>Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!</h2>
-<p>Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d010/android" target="_blank"> Site Android</a></p>
-<p>Entre no <a href="https://jonasvlima.github.io/html-css/desafios/  d012/" target="_blank">Cordel Moderno</a></p>
+<p>Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d010/android" target="_blank" class="one"> Site Android</a></p>
+<p>Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d012/" target="_blank" class="one">Cordel Moderno</a></p>
 
 
 <style>
     h1 {
-        font-size: 0.7em
+        font-size: 0.6em
     }
 
-    a {
+    a.one {
         color: white;
+        background-color: rgb(46, 46, 46);
+        border-radius: 10px;
         text-decoration: none;
-        background-color: #CACACA;
     }
 </style>
