@@ -19,4 +19,9 @@
         border-radius: 5px;
         text-decoration: none;
     }
+
+    a.one:hover {
+        color: white;
+        background-color: rgb(70, 70, 70);
+    }
 </style>
