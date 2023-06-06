@@ -18,7 +18,7 @@
         background-color: rgb(46, 46, 46);
         border-radius: 5px;
         text-decoration: none;
-        padding: 10px;
+        padding: 7px;
     }
 
     a.one:hover {
