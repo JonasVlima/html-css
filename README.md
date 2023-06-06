@@ -7,3 +7,9 @@
     Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d010/android"> Site Android</a>
     Entre no <a href="https://jonasvlima.github.io/html-css/desafios/  d012/">Cordel Moderno</a>
 </p>
+
+<style>
+    h1 {
+        font-size: 0.8em
+    }
+</style>
