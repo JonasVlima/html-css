@@ -12,4 +12,10 @@
     h1 {
         font-size: 0.7em
     }
+
+    a {
+        color: black;
+        font-weight: bolder;
+        text-decoration: none;
+    }
 </style>
