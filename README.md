@@ -16,7 +16,7 @@
     a.one {
         color: white;
         background-color: rgb(46, 46, 46);
-        border-radius: 10px;
+        border-radius: 5px;
         text-decoration: none;
     }
 </style>
