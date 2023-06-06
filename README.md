@@ -1,10 +1,16 @@
 # html-css
- Curso de HTML5 e CSS3 do CursoemVideo
+ <div>
+     Curso de HTML5 e CSS3 do CursoemVideo
+     Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
+     Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d010/android"> Site Android</a>
+     Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d012/">Cordel Moderno</a>
+ </div>
 
- Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
+<style> 
+    
+    div {
+        border: 1px solid black;
+        border-radius: 10px
+    }
 
- Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d010/android"> Site Android</a>
-
- Entre no <a href="https://jonasvlima.github.io/html-css/desafios/d012/">Cordel Moderno</a>
-
-
+</style>
