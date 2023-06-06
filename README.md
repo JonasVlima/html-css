@@ -15,7 +15,6 @@
 
     a {
         color: black;
-        font-weight: bolder;
         text-decoration: none;
     }
 </style>
